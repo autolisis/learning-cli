@@ -16,7 +16,9 @@
 
 ### Chatting through command line with Netcat
 
-//
+### Backgrounding processes with &, Job Control
+
+# //
 ### The Linux directory structure root, etc home usr bin
 
 ### Bash scripting intro redirection, command substitution
